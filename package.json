@@ -1,0 +1,24 @@
+{
+  "name": "Trailchatbot",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Tejaswi-R/Trailchatbot.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Tejaswi-R/Trailchatbot/issues"
+  },
+  "homepage": "https://github.com/Tejaswi-R/Trailchatbot#readme",
+  "dependencies": {
+    "request": "^2.79.0",
+    "restify": "^4.3.0"
+  }
+}
